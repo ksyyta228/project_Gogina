@@ -12,4 +12,4 @@ try:
     total_distance = (S1 * T)
     print(f"Расстояние между автомобилями через {T} часов: {total_distance} км")
 except ValueError:
-    print("говно")
+    print("ujdyj")
